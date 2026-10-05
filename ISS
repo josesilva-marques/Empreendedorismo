@@ -1,0 +1,7 @@
+ISS = Imposto Sobre Serviços. É um 
+imposto municipal cobrado sobre determinados 
+serviços prestados por empresas ou profissionais. 
+A alíquota e as
+regras dependem do município e do serviço.
+
+Fonte: Chatgpt - Inteligência Artificial 
